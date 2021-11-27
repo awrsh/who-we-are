@@ -1,0 +1,248 @@
+body {
+	direction: rtl !important
+}
+
+.tooltipster-content,.tooltipster-content a,.tooltipster-content p,.tooltipster-content .sc_item_button{direction: rtl !important;text-align:right !important}
+
+
+.sc_layouts_menu_nav > li{float: right !important}
+
+.trx_demo_tabs{right: 0px !important;left: 100% !important;position: fixed !important;}
+
+table{margin: 0 auto;}
+
+.cq-timeline .cq-timeline-title{font-weight: 800 !important;font-size: 1em !important;}
+
+.cq-timeline .cq-timeline-text{font-size: 0.8em}
+
+
+.vc_tta.vc_general .vc_tta-panel-title > a{text-align: right}
+
+.vc_tta.vc_tta-accordion .vc_tta-panel-heading .vc_tta-controls-icon-position-right.vc_tta-panel-title > a > .vc_tta-controls-icon{left: 15px !important;right: auto !important;}
+
+.trx_addons_popup_link{
+	display: inline-block !important;
+	vertical-align: middle !important;
+	padding: 9px 20px !important
+}
+
+.sc_layouts_login li{float: left !important}
+
+.text-left{text-align: left !important}
+
+.text-right{text-align: right !important}
+
+.text-center{text-align: center !important}
+
+#cryptoPriceSection{margin: 50px 0 !important;}
+
+#cryptoPriceSection .sc_item_title{margin-bottom: 30px}
+
+#latestCrypto{background: #323757;border-radius: 30px !important;}
+
+#latestCrypto .symbol{max-width: 50px !important;width: 24px;}
+
+
+
+.c-silver{color: #d2d3d7 !important;}
+
+.c-green{color: #2bd37c !important}
+
+.c-red{color: #d74331 !important;}
+
+.c-pink{color: #fc75b8 !important}
+
+.sc_item_title.sc_item_title_style_accent.sc_align_center::before{margin-top: -6px !important}
+
+#latestCrypto td,#latestCrypto tr,#latestCrypto th{border: none;padding: 0px;}
+
+#latestCrypto td{padding: 0px}
+
+.lh-40{line-height: 40px}
+
+.responsiveTable{max-width: 100%;overflow-x: scroll}
+
+#latestCrypto td,#latestCrypto th{padding: 5px 20px;background: transparent;}
+
+
+.bg-green{background: #00aa00}
+
+.bg-voilet{background: #f56b69}
+
+.bg-orange{background: #8f18ff}
+
+.boldest{font-weight: 900}
+
+#cryotoBoard .percent{color: #fff;border-radius: 3px;padding: 0px 4px;font-size: 0.8em;}
+
+
+#cryotoBoard i{background-size: 100% 100%;width: 24px;height: 24px;display: inline-block;float: left;}
+.ico-litecoin{background: url('../img/ltcMini.png') no-repeat}
+.ico-bitcoin{background: url('../img/btcMini.png') no-repeat}
+.ico-ethereum{background: url('../img/ethMini.png') no-repeat}
+
+
+.scheme_default table > thead > tr > th{font-weight: bold !important;;color: #fff !important;font-size: 0.9em}
+
+.scheme_default table > tbody > tr > td{color: #fff;font-size:0.8em}
+
+#latestCrypto tr{border-bottom: 1px solid #464f83 !important;}
+
+#latestCrypto tbody tr:last-child{border-bottom: none !important;}
+
+ul[class*="trx_addons_list"][class*="_circled"] > li::before{right: 10px !important;left: auto !important}
+
+ul.trx_addons_list_success_circled li strong{padding-right: 40px !important;}
+
+ul.trx_addons_list_success_circled li{margin-bottom: 30px !important;}
+
+
+
+/* footer */
+
+.socials_wrap.sc_align_right .social_item,.socials_wrap.sc_align_right .social_item:last-child{float: right !important;margin-right:10px !important;}
+
+form.mc4wp-form .mc4wp-form-fields input[type="email"]{text-align: left}
+
+.footer_wrap .widget_title,.widget .widget_title,.footer_wrap .widgettitle{text-align: right !important;}
+
+.footer_wrap .widgettitle{font-size:1em}
+
+.trx_demo_panels.trx_demo_tabs_position_lc .trx_demo_tabs{}
+
+.trx_demo_tabs_style_icons [class*="hint_"]::after{display: none !important;}
+
+.footer_wrap .widget ul{padding: 0 0 0 20px !important;}
+
+.footer_wrap .widget_title, .widget .widget_title{font-size: 1em !important}
+
+.trx_demo_panels .trx_demo_tabs a:hover{padding-right: 10px !important;}
+
+
+.scheme_default .sc_icons.sc_icons_modern .sc_icons_columns_wrap > [class*="trx_addons_column-"]:nth-child(2n+1) .sc_icons_item{border-right: none !important;border-left: 1px solid #eee;}
+
+.sc_icons.sc_icons_modern .sc_icons_columns_wrap > [class*="trx_addons_column-"]{padding-right: 0px !important;}
+
+
+
+/* sefareshi kardan eleman haye asli */
+select{padding: 0.1em}
+ul li{list-style: none}
+ul{margin: 0;padding: 0}
+
+section h2{color: #241010 !important;font-weight: bold;}
+
+
+.trx_demo_tabs_style_icons[class*="trx_demo_tabs_position_l"] .trx_demo_tabs a:not(.trx_demo_tab_active):hover {
+	-webkit-transform: translateX(-14px) !important;
+	-ms-transform: translateX(-14px) !important;
+	transform: translateX(-14px) !important;
+}
+
+.btn-trade{background: #35cbfd;border-radius: 5px;color: #fff !important;padding: 2px 20px;font-size:0.9em}
+
+#cryotoBoard{display: inline-block;width: 100%;position: relative;margin: 5em 0}
+
+#cryotoBoard .item .innerItem{background: #0a1845;display: inline-block;width: auto;border-radius: 20px;padding: 30px 10px;max-width: 100%;position: relative;color: #fff;text-align: left;font-size: 0.9em;}
+
+#cryotoBoard .item{display: inline-block;width: 100%;padding: 0px;position: relative;max-width: 100%;float: none;}
+
+
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: bold;
+	src: url('../fonts/eot/iranyekanwebboldfanum.eot');
+	src: url('../fonts/eot/iranyekanwebboldfanum.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+	url('../fonts/woff/iranyekanwebboldfanum.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	url('../fonts/ttf/iranyekanwebboldfanum.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: 100;
+	src: url('../fonts/eot/iranyekanwebthinfanum.eot');
+	src: url('../fonts/eot/iranyekanwebthinfanum.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+	url('../fonts/woff/iranyekanwebthinfanum.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	url('../fonts/ttf/iranyekanwebthinfanum.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: 300;
+	src: url('../fonts/eot/iranyekanweblightfanum.eot');
+	src: url('../fonts/eot/iranyekanweblightfanum.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+	url('../fonts/woff/iranyekanweblightfanum.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	url('../fonts/ttf/iranyekanweblightfanum.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: normal;
+	src: url('../fonts/eot/iranyekanwebregularfanum.eot');
+	src: url('../fonts/eot/iranyekanwebregularfanum.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+	url('../fonts/woff/iranyekanwebregularfanum.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	url('../fonts/ttf/iranyekanwebregularfanum.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: 500;
+	src: url('../fonts/eot/iranyekanwebmediumfanum.eot');
+	src: url('../fonts/eot/iranyekanwebmediumfanum.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+	url('../fonts/woff/iranyekanwebmediumfanum.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	url('../fonts/ttf/iranyekanwebmediumfanum.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: 800;
+	src: url('../fonts/eot/iranyekanwebextraboldfanum.eot');
+	src: url('../fonts/eot/iranyekanwebextraboldfanum.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+	url('../fonts/woff/iranyekanwebextraboldfanum.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	url('../fonts/ttf/iranyekanwebextraboldfanum.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: 900;
+	src: url('../fonts/eot/iranyekanwebblackfanum.eot');
+	src: url('../fonts/eot/iranyekanwebblackfanum.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+	url('../fonts/woff/iranyekanwebblackfanum.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	url('../fonts/ttf/iranyekanwebblackfanum.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: 950;
+	src: url('../fonts/eot/iranyekanwebextrablackfanum.eot');
+	src: url('../fonts/eot/iranyekanwebextrablackfanum.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+	url('../fonts/woff/iranyekanwebextrablackfanum.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	url('../fonts/ttf/iranyekanwebextrablackfanum.ttf') format('truetype');
+}
+
+
+
+body,h1,h2,h3,h4,h5,h6,a,select,button,input,option,.vc_tta.vc_tta-accordion .vc_tta-panel-title .vc_tta-title-text{font-family: 'iranyekan' !important;font-size: 16px;}
+
+
+@media(max-width: 1024px){
+	#cryptoPriceSection{padding: 20px 0px !important;}
+	.btn-trade{min-width: 60px !important;display: inline-block}
+	.sc_layouts_column .sc_layouts_item.menu{float: left !important;}
+	#cryptoBoardSection{padding: 20px 20px !important}
+}
+
+
+@media(max-width: 768px) {
+	#topPage h2 {
+		font-size: 2em !important;
+	}
+}
